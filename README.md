@@ -28,7 +28,7 @@ You will need Python 3.8+ and the following libraries:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Tahsine/maternal_health_stats_project.git
    cd maternal_health_stats_project
    ```
 2. Create and activate a virtual environment:
@@ -49,7 +49,3 @@ You will need Python 3.8+ and the following libraries:
 - **Data Cleaning**: Detailed justifications for using listwise deletion vs. imputation to maintain scientific rigor.
 - **Statistical Tests**: Usage of Pearson correlation for H1 and Kruskal-Wallis (non-parametric ANOVA) for H2.
 - **Formal Notation**: Inclusion of Null ($H_0$) and Alternative ($H_1$) hypotheses in mathematical form.
-
-## 🤝 Contribution
-
-Feel free to fork this project and submit pull requests for any analytical improvements or further visualizations.
